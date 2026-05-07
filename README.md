@@ -9,10 +9,10 @@
 
 ## 使用方式
 
-把整个 `gugugaga` 文件夹放到本机的 Codex 桌宠目录：
+下载这个仓库后，把文件夹改名为 `gugugaga`，再放到本机的 Codex 桌宠目录：
 
 ```text
 C:\Users\你的用户名\.codex\pets\gugugaga
 ```
 
-目录里需要同时有 `pet.json` 和 `spritesheet.webp`。
+最终目录里需要同时有 `pet.json` 和 `spritesheet.webp`。
